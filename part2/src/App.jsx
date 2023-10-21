@@ -20,6 +20,16 @@ const App = () => {
         name: 'State of a component',
         exercises: 14,
         id: 3
+      },
+      {
+        name: 'UseState and its funcionality',
+        exercises: 2,
+        id: 4
+      },
+      {
+        name: 'Server Side Rendering',
+        exercises: 9,
+        id: 5
       }
     ]
   }
